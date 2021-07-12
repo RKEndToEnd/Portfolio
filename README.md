@@ -5,7 +5,7 @@ My name is Rafał. I am bachelor's degree of logistics in delivery chains specia
 * contract logistics warehouses
 * production company warehouses
 
-Recently, i have started to interest of software testing and web development. I work hard to gain knowledge and level up my skills. 
+I have started to interest in software testing and web development. I work hard to gain knowledge and level up my skills. 
 
 ## My website portfolio
 * [My personal page](www.rkendtoend.pl)
