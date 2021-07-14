@@ -23,3 +23,6 @@ I have started to interest in software testing and web development. I work hard 
 * SQL/trainee
 * Selenium(Java)/trainee
 * Manual testing/trainee
+* Postman/trainee
+* Jira/trainee
+* Redmine/mid
