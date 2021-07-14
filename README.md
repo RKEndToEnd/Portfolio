@@ -12,7 +12,8 @@ I have started to interest in software testing and web development. I work hard 
 * [Deaf Association](http://www.mig-iem.pl)
 
 ## Manual tests
-* [Scenario and test cases for site www.mig-iem.pl ](https://drive.google.com/file/d/1hnx3exwZC58aLaufFeJS21nDF0yytx-t/view?usp=sharing)    
+* [Scenario and test cases for site www.mig-iem.pl ](https://drive.google.com/file/d/1hnx3exwZC58aLaufFeJS21nDF0yytx-t/view?usp=sharing)  
+[Test raport for site www.mig-iem.pl](https://drive.google.com/file/d/1wOkfoWLkQo5OmTpK_d5lvTJlheaG8yi2/view?usp=sharing)    
 Tests ready:  
 Contact form  
 WCAG plugin
