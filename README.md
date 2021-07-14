@@ -11,8 +11,10 @@ I have started to interest in software testing and web development. I work hard 
 * [My personal page](http://www.rkendtoend.pl)
 * [Deaf Association](http://www.mig-iem.pl)
 
+
 ##Manual tests
 * [Contact form test for site www.mig-iem.pl](https://drive.google.com/file/d/1VRyCV9KjNYsT78n94mdYkPefLzrVeX62/view?usp=sharing)
+
 
 ##Tech skills
 * Worpress/junior
