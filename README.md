@@ -12,10 +12,10 @@ I have started to interest in software testing and web development. I work hard 
 * [Deaf Association](http://www.mig-iem.pl)
 
 ## Manual tests
-* [Test for site www.mig-iem.pl](https://drive.google.com/file/d/1VRyCV9KjNYsT78n94mdYkPefLzrVeX62/view?usp=sharing)
-Manual tests ready:
-* Contact form
-* WCAG plug
+* [Test for site www.mig-iem.pl](https://drive.google.com/file/d/1VRyCV9KjNYsT78n94mdYkPefLzrVeX62/view?usp=sharing)  
+Tests ready:  
+Contact form  
+WCAG plug
 
 ## Tech skills
 * Worpress/junior
