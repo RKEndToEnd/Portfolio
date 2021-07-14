@@ -15,7 +15,7 @@ I have started to interest in software testing and web development. I work hard 
 * [Scenario and test cases for site www.mig-iem.pl ](https://drive.google.com/file/d/1hnx3exwZC58aLaufFeJS21nDF0yytx-t/view?usp=sharing)    
 Tests ready:  
 Contact form  
-WCAG plug
+WCAG plugin
 
 ## Tech skills
 * Worpress/junior
