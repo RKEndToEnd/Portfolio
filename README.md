@@ -19,14 +19,14 @@ Contact form
 WCAG plugin
 
 ## Tech skills
-* Worpress/junior
-* Bootstrap/junior
-* HTML + CSS/junior
-* PHP/trainee
-* Laravel/trainee
-* SQL/trainee
-* Selenium(Java)/trainee
-* Manual testing/trainee
-* Postman/trainee
-* Jira/trainee
-* Redmine/mid
+* Worpress - trainee/junior
+* Bootstrap - trainee/junior
+* HTML + CSS - trainee/junior
+* PHP - trainee
+* Laravel - trainee
+* SQL - trainee
+* Selenium(Java) - trainee
+* Manual testing - trainee
+* Postman - trainee
+* Jira - trainee
+* Redmine/ - junir/mid
