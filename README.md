@@ -29,4 +29,4 @@ WCAG plugin
 * Manual testing - trainee
 * Postman - trainee
 * Jira - trainee
-* Redmine/ - junir/mid
+* Redmine/ - junior/mid
