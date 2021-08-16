@@ -24,6 +24,7 @@ WCAG plugin
 * Worpress - trainee/junior
 * Bootstrap - trainee/junior
 * HTML + CSS - trainee/junior
+* SEO - trainee/junior
 * PHP - trainee
 * Laravel - trainee
 * SQL - trainee
