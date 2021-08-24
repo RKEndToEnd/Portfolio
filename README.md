@@ -10,8 +10,8 @@ I have started to interest in software testing and web development. I work hard 
 ## My website portfolio
 * [My personal page](http://www.rkendtoend.pl)
 * [Deaf Association](http://www.mig-iem.pl)
-* [Fire Department](http://ww.rkendtoend.pl/tests/ospsobieszewo) waiting for implementation on client hosting
-* [Wound Healing Treatment Room](www.rkendtoend.pl/tests/Leczenie_ran) waiting for implementation on client hosting
+* [Fire Department](http://wwW.rkendtoend.pl/tests/ospsobieszewo) waiting for implementation on client hosting
+* [Wound Healing Treatment Room](HTTP://www.rkendtoend.pl/tests/Leczenie_ran) waiting for implementation on client hosting
 
 ## Manual tests
 * [Scenario and test cases for site www.mig-iem.pl ](https://drive.google.com/file/d/1hnx3exwZC58aLaufFeJS21nDF0yytx-t/view?usp=sharing)  
