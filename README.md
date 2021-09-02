@@ -4,8 +4,9 @@ My name is Rafał. I am bachelor's degree of logistics in delivery chains specia
 * cross dock warehouses
 * contract logistics warehouses
 * production company warehouses
+* implementation new TMS system as Test Team Leader
 
-I have started to interest in software testing and web development. I work hard to gain knowledge and level up my skills. 
+I have started to interest in software testing and web development. I work hard to gain knowledge and level up my skills. Actually i gain experience in manual testing at test.io and utest.com platforms.
 
 ## My website portfolio
 * [My personal page](http://www.rkendtoend.pl)
@@ -33,4 +34,4 @@ WCAG plugin
 * Postman - trainee
 * Rest Assured - trainee
 * Jira - trainee
-* Redmine/ - junior/mid
+* Redmine - junior/mid
