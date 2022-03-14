@@ -11,8 +11,14 @@ I have started to interest in software testing and web development. I work hard 
 ## My website portfolio
 * [My personal page](http://www.rkendtoend.pl)
 * [Deaf Association](http://www.mig-iem.pl)
-* [Fire Department](http://wwW.rkendtoend.pl/tests/ospsobieszewo) waiting for implementation on client hosting
+* [Fire Department Sobieszewo](https://www.ospsobieszewo.pl/)
+* [Fire Department Zakrzówek](https://www.ospzakrzowek.ovh/)
 * [Wound Healing Treatment Room](http://www.leczenierangdansk.pl)
+* [Nursing Emergency](https://www.kroplowkawdomu.pl/)
+
+## My app portfolio
+* [X-Dock-Manager](https://github.com/RKEndToEnd/x-dock-manager)
+* [Product Manager](https://github.com/RKEndToEnd/product-manager)
 
 ## Manual tests
 * [Scenario and test cases for site www.mig-iem.pl ](https://drive.google.com/file/d/1hnx3exwZC58aLaufFeJS21nDF0yytx-t/view?usp=sharing)  
@@ -22,16 +28,16 @@ Contact form
 WCAG plugin
 
 ## Tech skills
-* Worpress - trainee/junior
-* Bootstrap - trainee/junior
-* HTML + CSS - trainee/junior
+* Worpress - junior
+* Bootstrap - junior
+* HTML + CSS - junior
 * SEO - trainee/junior
-* PHP - trainee
-* Laravel - trainee
+* PHP - trainee/junior
+* Laravel - trainee/junior
 * SQL - trainee
 * Selenium(Java) - trainee
-* Manual testing - trainee
-* Postman - trainee
+* Manual testing - trainee/junior
+* Postman - trainee/junior
 * Rest Assured - trainee
 * Jira - trainee
 * Redmine - junior/mid
