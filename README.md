@@ -36,6 +36,7 @@ WCAG plugin
 * SEO - trainee/junior
 * PHP - trainee/junior
 * Laravel - trainee/junior
+* React.js - trainee
 * SQL - trainee
 * Selenium(Java) - trainee
 * Manual testing - trainee/junior
