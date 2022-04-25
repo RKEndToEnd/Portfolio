@@ -19,6 +19,8 @@ I have started to interest in software testing and web development. I work hard 
 ## My app portfolio
 * [X-Dock-Manager](https://github.com/RKEndToEnd/x-dock-manager)
 * [Product Manager](https://github.com/RKEndToEnd/product-manager)
+* Product Manager API with React, Laravel:
+ [Product Manager API React (frontend)](https://github.com/RKEndToEnd/Product-Manager-API-React), [Product Manager API Laravel (backend)](https://github.com/RKEndToEnd/Product-Manager-API-Laravel)
 
 ## Manual tests
 * [Scenario and test cases for site www.mig-iem.pl ](https://drive.google.com/file/d/1hnx3exwZC58aLaufFeJS21nDF0yytx-t/view?usp=sharing)  
