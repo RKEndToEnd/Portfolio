@@ -19,7 +19,7 @@ I have started to interest in software testing and web development. I work hard 
 ## My app portfolio
 * [X-Dock-Manager](https://github.com/RKEndToEnd/x-dock-manager)
 * X-Dock Manager API with React, Laravel:
-  [X-Dock-Manager API React](https://github.com/RKEndToEnd/x-dock-manager-api-laravel), [X-Dock-Manager API Laravel](https://github.com/RKEndToEnd/x-dock-manager-api-laravel)
+  [X-Dock-Manager API React](https://github.com/RKEndToEnd/x-dock-manager-api-react), [X-Dock-Manager API Laravel](https://github.com/RKEndToEnd/x-dock-manager-api-laravel)
 * [Product Manager](https://github.com/RKEndToEnd/product-manager)
 * Product Manager API with React, Laravel:
  [Product Manager API React (frontend)](https://github.com/RKEndToEnd/Product-Manager-API-React), [Product Manager API Laravel (backend)](https://github.com/RKEndToEnd/Product-Manager-API-Laravel)
