@@ -6,7 +6,7 @@ My name is Rafał. I am bachelor's degree of logistics in delivery chains specia
 * production company warehouses
 * implementation new TMS system as Test Team Leader
 
-I have started to interest in software testing and web development. I work hard to gain knowledge and level up my skills. Actually i gain experience in manual testing at test.io and utest.com platforms.
+I have started to interest in software testing and web development. I work hard to gain knowledge and level up my skills. Actually i gain experience in intern at Inte.team (Scotland) in Laravel and JS. I'm also working as manual tester at and utest.com.
 
 ## My website portfolio
 * [My personal page](http://www.rkendtoend.pl)
