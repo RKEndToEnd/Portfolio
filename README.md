@@ -15,6 +15,7 @@ I have started to interest in software testing and web development. I work hard 
 * [Fire Department Zakrzówek](https://www.ospzakrzowek.ovh/)
 * [Wound Healing Treatment Room](http://www.leczenierangdansk.pl)
 * [Nursing Emergency](https://www.kroplowkawdomu.pl/)
+* [Finantial independence](http://www.zyciedlasiebie.com.pl/)
 
 ## My app portfolio
 * [X-Dock-Manager](https://github.com/RKEndToEnd/x-dock-manager). Production app is at [my server](https://www.rkendtoend.pl/xdockmanager/public/login). Default new registered user has lowest acces. But You can always ask me for admin data logit to see all application.
